@@ -2,16 +2,16 @@
     {
         "id": "main-banner",
         "title": "Eric <span class='color-primary'>Lyons</span>",
-        "subtitle": "Creative Web & App Developer",
+        "subtitle": "Design Director and Accessibility Champion",
         "bgImage": "./images/banner/eric-slider.jpg",
         "image": "./images/banner/person-image.jpg"
     },
 
     {
         "id": "about",
-        "title": "Bernard Sydney",
-        "subtitle": "Creative Web & App Developer",
-        "description": "My name is Bernard Sydney. I am a Web Developer, and I'm very passionate and dedicated to my work.",
+        "title": "Eric Lyons",
+        "subtitle": "Design Director and Accessibility Champion",
+        "description": "My name is Eric Lyons. I am a Design Director now, but I am so SO much more.",
         "description2": "With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.",
         "downloadButton": "Download CV",
         "linkBUtton": "Send Message",
@@ -20,19 +20,19 @@
                 "id": "aboutinfo-1",
                 "iconName": "FiArrowRightCircle",
                 "label": "Birthday",
-                "value": "01.07.1990"
+                "value": "08.12.1976"
             },
             {
                 "id": "aboutinfo-2",
                 "iconName": "icon",
                 "label": "Age",
-                "value": "29"
+                "value": "45"
             },
             {
                 "id": "aboutinfo-3",
                 "iconName": "icon",
                 "label": "Location",
-                "value": "Ave 11, New York, USA"
+                "value": "Washington, DC USA"
             },
             {
                 "id": "aboutinfo-3",
@@ -44,25 +44,25 @@
                 "id": "aboutinfo-3",
                 "iconName": "icon",
                 "label": "Study",
-                "value": "University of Chicago"
+                "value": "West Virgina University"
             },
             {
                 "id": "aboutinfo-4",
                 "iconName": "icon",
                 "label": "Degree",
-                "value": "Master"
+                "value": "BA in Journalism: Public Relations"
             },
             {
                 "id": "aboutinfo-5",
                 "iconName": "icon",
                 "label": "Mail",
-                "value": "mymail@gmail.com"
+                "value": "eric@ericmlyons.com"
             },
             {
                 "id": "aboutinfo-6",
                 "iconName": "icon",
                 "label": "Phone",
-                "value": "+77 022 177 05 05"
+                "value": "+1 202.255.9241"
             }
         ]
     },
